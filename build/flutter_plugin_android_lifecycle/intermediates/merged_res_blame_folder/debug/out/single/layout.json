@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\Flutter Apps\\chat_app\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Alif Hasan\\.gradle\\caches\\transforms-2\\files-2.1\\ff453976176a403e13d8ed149ba417dd\\core-1.6.0\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\Flutter Apps\\chat_app\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Alif Hasan\\.gradle\\caches\\transforms-2\\files-2.1\\ff453976176a403e13d8ed149ba417dd\\core-1.6.0\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\Flutter Apps\\chat_app\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Alif Hasan\\.gradle\\caches\\transforms-2\\files-2.1\\ff453976176a403e13d8ed149ba417dd\\core-1.6.0\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\Flutter Apps\\chat_app\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Alif Hasan\\.gradle\\caches\\transforms-2\\files-2.1\\ff453976176a403e13d8ed149ba417dd\\core-1.6.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\Flutter Apps\\chat_app\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\debug\\layout\\custom_dialog.xml",
+        "source": "C:\\Users\\Alif Hasan\\.gradle\\caches\\transforms-2\\files-2.1\\ff453976176a403e13d8ed149ba417dd\\core-1.6.0\\res\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "D:\\Flutter Apps\\chat_app\\build\\flutter_plugin_android_lifecycle\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Alif Hasan\\.gradle\\caches\\transforms-2\\files-2.1\\ff453976176a403e13d8ed149ba417dd\\core-1.6.0\\res\\layout\\notification_template_part_chronometer.xml"
+    }
+]
